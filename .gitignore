@@ -14,3 +14,7 @@ __pycache__/
 /output/
 /input/
 /example/
+
+.env
+.env
+.env
